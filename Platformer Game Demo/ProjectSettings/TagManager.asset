@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platforms
+  - Death
+  - Background
+  - Player
+  - Interactables
+  - Enemies
+  - Spawners
+  - Enemy Walls
+  - Boundary Walls
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Enemy Walls
+    uniqueID: 1683273791
+    locked: 0
+  - name: Boundary Walls
+    uniqueID: 1632103253
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1967437145
+    locked: 0
+  - name: Platforms
+    uniqueID: 1816686919
+    locked: 0
+  - name: Death
+    uniqueID: 2273632247
+    locked: 0
+  - name: Interactables
+    uniqueID: 2369181403
+    locked: 0
+  - name: Enemies
+    uniqueID: 350913381
+    locked: 0
+  - name: Spawners
+    uniqueID: 2560913403
+    locked: 0
+  - name: PlayerParticles
+    uniqueID: 2304982925
+    locked: 0
+  - name: Player
+    uniqueID: 1035432337
+    locked: 0
